@@ -60,4 +60,6 @@ $ git merge branchB
 
 VS Code なら簡単に解決できます．
 
+[手順書はこちら](https://github.com/AtelierArith/intro2software_with_julia/issues/7)
+
 

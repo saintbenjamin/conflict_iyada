@@ -1,0 +1,1 @@
+yes | rm -r sandbox
